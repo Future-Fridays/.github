@@ -37,6 +37,6 @@ Future Fridays in Fitzroy is where passion meets innovation. Whether you're loca
 
 Join our [discord here](https://discord.gg/pTErAmQKJw) and say hello in the channel ```#future-fridays``` 
 
-Join our [Meetup group](https://www.meetup.com/g/future-fridays-in-fitzroy-melbourne-ai-hackathon) here
+Join our [Meetup group](https://www.meetup.com/future-fridays-in-fitzroy-melbourne-ai-hackathon/) here
 
 
